@@ -1,8 +1,6 @@
 ## Hii I am Lucky Goyal. 👋
 # 💫 About Me:
-I'm currently learning Web3<br>I'm currently working on Software Engineering Project nothing much<br>
-Research Paper:"Enhancing IoMT Security: A Comparative Study of Traditional and Advanced Machine Learning Models for Detecting MQTT, Spoofing, and DDoS Attacks".
-https://www.unb.ca/cic/datasets/iomt-dataset-2024.html
+I'm currently learning Web3<br>
 
 
 ## 🌐 Socials:
