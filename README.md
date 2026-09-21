@@ -1,7 +1,7 @@
 <!--HEADER SECTION -->
 <h1 align="center">
   <a href="https://github.com/Luckygoyal765">
-    <img src="https://readme-typing-svg.demolab.com/?lines=LuckyGoyal%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Lucky Goyal" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Lucky%20Goyal;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Lucky Goyal" /></a>
 </h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
@@ -14,7 +14,7 @@
 <details open>
 <summary><h2>Reach Out To Me?</h2></summary>
 <a href="https://www.linkedin.com/in/luckyy-goyal-34b51125b/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a46c68bc-a263-4def-9840-e9146dd04d1d" /></a>
-<a href="mailto:luckygoyal980765@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/Luckygoyal765"/></a>
+<a href="mailto:luckygoyal980765@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a>
 </details>
 
 # 💻 Tech Stack:
