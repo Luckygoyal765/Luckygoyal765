@@ -1,6 +1,6 @@
 <!--HEADER SECTION -->
 <h1 align="center">
-  <a href="https://github.com/Luckygoyal">
+  <a href="https://github.com/Luckygoyal765">
     <img src="https://readme-typing-svg.demolab.com/?lines=Lucky Goyal%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Lucky Goyal" /></a>
 </h1>
 
