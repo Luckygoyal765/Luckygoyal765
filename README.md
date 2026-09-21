@@ -108,7 +108,6 @@
       </a>
       <br>Kubernetes
     </td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
