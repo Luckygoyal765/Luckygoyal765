@@ -112,7 +112,7 @@
       <a href="#macropower-tech">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFc9-wCsbXH8vkopQpj5uDR4BI0zSOc5fji_tOibxE5w&s=10/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" width="48" height="48" alt="Kafa" />
       </a>
-      <br>Kubernetes
+      <br>kafka
     </td>
   </tr>
   <tr>
@@ -135,12 +135,6 @@
       <br>MongoDB
     </td>
     </td>
-    <td align="center" width="96">
-    <a href="#macropower-tech">
-      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/go-programming-language.png" alt="go-programming-language"/>
-    </a>
-    <br>GO
-  </td>
   </tr>
 </table>
 </details>
