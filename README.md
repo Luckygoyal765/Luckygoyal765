@@ -142,16 +142,12 @@
 # GitHub Activity:
 <table border= "0">
   <tr>
-    <td>
 ![](https://github-readme-stats.vercel.app/api?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luckygoyal765&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-    </td>
-  <td>
     <td align="center">
-      <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" alt="AMRITH03 GitHub Stats"/>
+      <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=Luckygoyal765&show_icons=true&bg_color=00000000" alt="Luckygoyal765 GitHub Stats"/>
     </td>
-  </td>
   </tr>
 </table>
 
