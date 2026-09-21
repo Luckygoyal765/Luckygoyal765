@@ -64,6 +64,12 @@
       </a>
       <br>Assembly
     </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png/?size=100&id=gVK745a4Vaur&format=png&color=000000" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
   </tr>
   <tr>
       <td align="center" width="96">
