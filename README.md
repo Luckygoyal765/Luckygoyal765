@@ -1,17 +1,21 @@
 <!--HEADER SECTION -->
 <h1 align="center">
   <a href="https://github.com/Luckygoyal765">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Lucky Goyal%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Lucky Goyal" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=LuckyGoyal%20B;&font=Fira+Code&weight=900&size=40&pause=500&color=1EFFF1D4&center=true&width=435&height=60" alt="Lucky Goyal" /></a>
 </h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-# About Me:
-I'm currently learning Web3<br>
+## About Me
+ - Interested in all aspects of low-level and high-level computation.
+ - Actively involved in Competitive Programming, Neural Networks & deep learning.
+ - Focused on creating intelligent, data-driven applications.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luckygoyal_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucky-goyal-34b51125b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@LuckyGoyal765) [![leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=orange)](https://leetcode.com/u/LuckyGoyal765/)
+<details open>
+<summary><h2>Reach Out To Me?</h2></summary>
+<a href="https://www.linkedin.com/in/luckyy-goyal-34b51125b/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a46c68bc-a263-4def-9840-e9146dd04d1d" /></a>
+<a href="mailto:luckygoyal980765@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/Luckygoyal765"/></a>
+</details>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23F7A41D.svg?style=for-the-badge&logo=react&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-4479A1.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-4479B2.svg?style=for-the-badge&logo=git&logoColor=red) ![GitHub](https://img.shields.io/badge/github-3670A0.svg?style=for-the-badge&logo=github&logoColor=black) 
