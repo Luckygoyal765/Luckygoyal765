@@ -15,11 +15,130 @@
 <summary><h2>Reach Out To Me?</h2></summary>
 <a href="https://www.linkedin.com/in/luckyy-goyal-34b51125b/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a46c68bc-a263-4def-9840-e9146dd04d1d" /></a>
 <a href="mailto:luckygoyal980765@gmail.com" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a>
-<a href="https://leetcode.com/u/LuckyGoyal765/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a>
+<!-- <a href="https://leetcode.com/u/LuckyGoyal765/" target="_blank"> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fc33f0d4-5ae0-4652-b041-a877f8b6a880"/></a> -->
 </details>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23F7A41D.svg?style=for-the-badge&logo=react&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-4479A1.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-4479B2.svg?style=for-the-badge&logo=git&logoColor=red) ![GitHub](https://img.shields.io/badge/github-3670A0.svg?style=for-the-badge&logo=github&logoColor=black) 
+<!--TOOL BOX SECTION -->
+<details open>
+<summary><h2>Tool kit</h2></summary>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+        </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+       </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" width="48" height="48" alt="Assembly" />
+      </a>
+      <br>Assembly
+    </td>
+  </tr>
+  <tr>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="48" height="48" alt="React" />
+      </a>
+      <br>ReactJS
+    </td>
+       <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" width="48" height="48" alt="Next" />
+      </a>
+      <br>NextJS
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+         <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img align="left"  src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    </td>
+    <td align="center" width="96">
+    <a href="#macropower-tech">
+      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/go-programming-language.png" alt="go-programming-language"/>
+    </a>
+    <br>GO
+  </td>
+  </tr>
+</table>
+</details>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luckygoyal765&theme=dark&hide_border=false)<br/>
