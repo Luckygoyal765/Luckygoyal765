@@ -139,10 +139,21 @@
 </table>
 </details>
 
-# 📊 GitHub Stats:
+# GitHub Activity:
+<table border= "0">
+  <tr>
+    <td>
 ![](https://github-readme-stats.vercel.app/api?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luckygoyal765&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckygoyal765&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    </td>
+  <td>
+    <td align="center">
+      <img src="https://github-readme-stats-delta-olive-46.vercel.app/api?username=AMRITH03&show_icons=true&bg_color=00000000" alt="AMRITH03 GitHub Stats"/>
+    </td>
+  </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
