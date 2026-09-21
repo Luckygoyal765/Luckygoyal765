@@ -9,7 +9,7 @@
 ## About Me
  - Interested in all aspects of low-level and high-level computation.
  - Actively involved in Competitive Programming, Neural Networks & deep learning.
- - Focused on creating intelligent, data-driven applications.
+ - Focused on Building Fullstack applications.
 
 <details open>
 <summary><h2>Reach Out To Me?</h2></summary>
