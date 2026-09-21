@@ -108,6 +108,13 @@
       </a>
       <br>Kubernetes
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFc9-wCsbXH8vkopQpj5uDR4BI0zSOc5fji_tOibxE5w&s=10/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" width="48" height="48" alt="Kafa" />
+      </a>
+      <br>Kubernetes
+    </td>
+  </tr>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
