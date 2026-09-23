@@ -18,6 +18,10 @@
 <a href="https://leetcode.com/u/LuckyGoyal765/" target="_blank">
   <img width="50" height="50" alt="LeetCode" src="https://github.com/user-attachments/assets/1da9b71f-e374-471e-bb20-567d3ab14fda" />
 </a>
+<!-- <a href="https://leetcode.com/u/LuckyGoyal765/" target="_blank">
+  <img width="554" height="554" alt="Image" src="https://github.com/user-attachments/assets/9bb6022b-69d7-45e3-879b-40bc54eac091" />
+</a> -->
+  
 </details>
 
 <!--TOOL BOX SECTION -->
